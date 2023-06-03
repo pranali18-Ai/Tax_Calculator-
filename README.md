@@ -1,4 +1,3 @@
-Certainly! Here's a sample README file for the tax calculator code that you can use on GitHub:
 
 # Tax Calculator
 
